@@ -1,3 +1,9 @@
+
+https://classroom.codingninjas.com/app/cohorts/19953
+
+https://classroom.codingninjas.com/app/login?redirect=%2Frequest-blocked&logged_out=true
+
+
 package fundamentals;
 
 import java.util.Scanner;
