@@ -784,7 +784,33 @@ public class UserInput {
 		
 		
 		
+			int n = sc.nextInt();
 		
+		int i=1;
+		while(i<=(2*n-1))
+		{
+			int num = 2*n-1;
+			
+			int j=1;
+			int p = i;
+			while(j<=n)
+			{
+                      if(p<=num) {      
+					   System.out.print(p);
+					   p=p+2;
+                      }else {
+                    	  p = p-2*n;
+                      }
+				j=j+1;
+			}
+			
+			if((i-2)>=1)
+			System.out.print(i-2);
+            System.out.println();
+			
+			i=i+2;
+			
+		}
 		
 		
 		
